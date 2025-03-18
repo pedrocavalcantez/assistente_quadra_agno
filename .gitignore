@@ -1,0 +1,3 @@
+.env
+*.env
+config.py  # se for um arquivo com sua chave
